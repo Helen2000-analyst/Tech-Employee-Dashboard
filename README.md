@@ -1,5 +1,17 @@
 # Tikky Tech-Employee-Dashboard
 
+### Table of Contents
+
+ - [Project Overview](#project-overview)
+ - [Data Sources](#data-sources)
+ - [Tools](#tools)
+ - [Data Cleaning or Preparation](#data-cleaning-or-preparation)
+ - [Exploratory Data Analysis](#exploratory-data-analysis)
+ - [Datasets](#dashboards)
+ - [Results or Findings](#results-or-findings)
+ - [Observations](#observations)
+ - [Recommendations](#recommendations)
+
 ### Project Overview
 
 This dashboard was created to help Tikky Tech understand its employees better. It brings together important HR information like age, gender, job roles, departments, locations, and diversity, and presents it in one easy-to-read place. With this dashboard, managers can quickly see how many people work in each department, where employees are located, and which job roles are most common. 
@@ -8,7 +20,9 @@ It also highlights important patterns, such as the company’s strong focus on e
 
 ### Data Sources
 
-#### Employee's Dataset: The dataset used for the analysis is "Tikky Tech Employee's Data.csv" containing datailed information about each employee in the company.
+#### Employee Dataset: 
+
+The dataset used for the analysis is "Tikky Tech Employee's Data.csv" containing datailed information about each employee in the company.
 
 ### Tools
 
@@ -29,7 +43,7 @@ It also highlights important patterns, such as the company’s strong focus on e
   
   iii. Data Cleaning and Formatting.
 
-### Exaploratory Data Analysis
+### Exploratory Data Analysis
 
 EDA involves exploring the insurance data to answer ket questions, such as:
 
@@ -45,7 +59,9 @@ EDA involves exploring the insurance data to answer ket questions, such as:
 
 [Dataset Used](https://eu.docworkspace.com/d/sIKq858OdAYyly8kG?sa=601.1037)
 
-  ### DASHBOARD
+  ### DASHBOARDS
+  
+The reports was gotten from two different tools which are Power BI and Excel.
 
   #### Power BI Dashboard
 
@@ -60,7 +76,7 @@ EDA involves exploring the insurance data to answer ket questions, such as:
 <img width="1070" height="608" alt="Screenshot (561)" src="https://github.com/user-attachments/assets/74479e62-a586-4448-9e13-dc93b1c58233" />
 
 
-### Result or Findings
+### Results or Findings
 
 #### 1. Workforce Size & Structure: 
  - The company has approximately 21,000 employees across multiple cities and states.
