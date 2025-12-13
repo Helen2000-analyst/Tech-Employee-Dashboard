@@ -70,10 +70,7 @@ The reports was gotten from two different tools which are Power BI and Excel.
 
   <img width="1180" height="657" alt="Screenshot (557)" src="https://github.com/user-attachments/assets/91d514b5-70e1-470e-896b-2d95c68dcd0c" />
 
-#### Excel Dashboard
 
-
-<img width="1070" height="608" alt="Screenshot (561)" src="https://github.com/user-attachments/assets/74479e62-a586-4448-9e13-dc93b1c58233" />
 
 
 ### Results or Findings
