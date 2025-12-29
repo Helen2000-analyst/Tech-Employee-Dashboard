@@ -8,7 +8,7 @@
  - [Data Cleaning or Preparation](#data-cleaning-or-preparation)
  - [Exploratory Data Analysis](#exploratory-data-analysis)
  - [Datasets](#dashboards)
- - [Results or Findings](#results-or-findings)
+ - [Results](#results)
  - [Observations](#observations)
  - [Recommendations](#recommendations)
 
@@ -73,7 +73,7 @@ The reports was gotten from two different tools which are Power BI and Excel.
 
 
 
-### Results or Findings
+### Results
 
 #### 1. Workforce Size & Structure: 
  - The company has approximately 21,000 employees across multiple cities and states.
