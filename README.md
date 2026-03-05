@@ -180,9 +180,13 @@ Based on the analytics, these are some recommendations:
  - Departments with high workload (Engineering, Research) should be assessed for burnout risk.
  - Implement training and development programs to upskill lower-level developers into higher positions.
 
+### Conclusion
 
+This project analyzed online shopper behavior to predict whether a visitor will complete a purchase. After performing exploratory data analysis and testing multiple machine learning models, Logistic Regression achieved the best performance with an accuracy of approximately 89%.
 
+The analysis revealed that factors such as product page visits, page value, and visitor type significantly influence purchase decisions. These insights demonstrate how machine learning can help e-commerce businesses better understand customer behavior and improve marketing strategies.
 
+Future improvements could include addressing class imbalance, tuning model parameters, and incorporating additional behavioral features to further enhance predictive performance.
 
 
 
